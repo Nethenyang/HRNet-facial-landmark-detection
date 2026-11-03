@@ -1,0 +1,5 @@
+split,images,measured_nme_percent,official_nme_percent,gap_percentage_points
+Common,554,2.8652,2.91,-0.0448
+Challenge,135,5.1075,5.11,-0.0025
+Full,689,3.3045,3.34,-0.0355
+Test,600,3.8779,3.85,0.0279
